@@ -83,5 +83,5 @@ and some additional arguments defined below:
 --proxy-server=http://proxy.zyte.com:8011 --disable-site-isolation-trials
 ```
 
-- Consider our new [zyte-smartproxy-plugin](https://github.com/Unity-Billal-mesloub/zyte-smartproxy-plugin) for [playwright-extra](https://github.com/berstend/puppeteer-extra/tree/main/packages/playwright-extra) 
-and [puppeteer-extra](https://github.com/berstend/puppeteer-extra/tree/master/packages/puppeteer-extra) frameworks.
+- Consider our new [zyte-smartproxy-plugin](https://github.com/Unity-Billal-mesloub/zyte-smartproxy-plugin) for [playwright-extra](https://github.com/Unity-Billal-mesloub/puppeteer-extra/tree/main/packages/playwright-extra) 
+and [puppeteer-extra](https://github.com/Unity-Billal-mesloub/puppeteer-extra/tree/master/packages/puppeteer-extra) frameworks.
